@@ -29,8 +29,13 @@ $filename = $product . '_' . $version . '_' . $branch . '_' . $stable . '.zip'; 
 
 if(isset($version, $branch, $product, $stable))
 {
-	HZip::zipDir(CURDIR, CURDIR . buildFolder . '/' . $filename)
-	print ucfirst($product) . ' has been versioned at ' . $version . ' for the ' . $branch . ' and is currently ' . $stable . '.';
+	if(file_exists(buildFolder . '/' .$filename))
+	{
+		HZip::zipDir(CURDIR, CURDIR . buildFolder . '/' . $filename)
+		print ucfirst($product) . ' has been versioned at ' . $version . ' for the ' . $branch . ' and is currently ' . $stable . '.';
+	}
+	else
+		print 'You already have a build with the given information';
 }
 
 else
