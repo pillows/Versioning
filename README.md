@@ -9,7 +9,7 @@ Then if you are using a web browser to complete this task, then visit this link 
 http://localhost/folder/versioning.php?version=1.0.0.0&branch=alpha&stable=1&product=HF
 ```
 If you are this through the command line:
-```php
+```
 php versioning.php?version=1.0.0.0&branch=alpha&stable=1&product=HF
 ```
 You can check your zip files in the build folder. 
