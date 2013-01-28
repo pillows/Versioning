@@ -5,11 +5,11 @@ Documentation:
 
 First you should put versioning.php in your root folder or the folder that you would like to make versions for. 
 Then if you are using a web browser to complete this task, then visit this link but replace most of the info:
-
-http://localhost/folder/versioning.php?version=1.0.0.0&branch=alpha&stable=1&product=HF
-
-If you are this through the command line:
 ```
+http://localhost/folder/versioning.php?version=1.0.0.0&branch=alpha&stable=1&product=HF
+```
+If you are this through the command line:
+```php
 php versioning.php?version=1.0.0.0&branch=alpha&stable=1&product=HF
 ```
 You can check your zip files in the build folder. 
