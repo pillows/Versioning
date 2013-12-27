@@ -31,3 +31,7 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
 You can donate here: https://onx.im/donate/donate.php
 If there are any issues just email hello@onx.im
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pillows/versioning/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
