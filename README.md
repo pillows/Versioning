@@ -19,7 +19,7 @@ You can check your zip files in the build folder.
 DO WHAT THE WHATEVER YOU WANT + COFFEE/CANDY PUBLIC LICENSE
 Version 1, December 2012
 
-Copyright (C) 2012 Pillow/Matt
+Copyright (C) 2012 
 
 DO WHAT THE WHATEVER YOU WANT + COFFEE/CANDY PUBLIC LICENSE
 TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
@@ -28,10 +28,3 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 1. If you make a substantial amount of money by exercising clause 0,
    you should consider buying the author a cup of coffee or candy so he
    can do late night coding.
-
-You can donate here: https://onx.im/donate/donate.php
-If there are any issues just email hello@onx.im
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pillows/versioning/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
